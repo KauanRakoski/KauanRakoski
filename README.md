@@ -7,8 +7,15 @@ I am a student who code as a hobby. I love front-end and I am learning how to cr
 - 🤔 I’m looking for help with ... database interactions and dinamic pages
 
 ##### Languages
+<ul>
+  <li>🐍 Python basics</li>
+  <li>☕📜 Javascript and node js</li>
+  <li>📶 Html, Css</li> 
+</ul>
 
-  🐍 Python basics <br>
-  ☕📜 Javascript and node js <br>
-  📶 Html, Css <br>
-
+```javascript
+if(1==2)develop good apps
+else pretend everythingIsOkay()
+```
+  
+    
