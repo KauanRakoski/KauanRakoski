@@ -14,7 +14,7 @@ I am a student who code as a hobby. I love front-end and I am learning how to cr
 </ul>
 
 ```javascript
-if(1==2)develop good apps
+if(1==2) developGoodApps()
 else pretend everythingIsOkay()
 ```
   
