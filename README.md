@@ -13,9 +13,6 @@ I am a student who code as a hobby. I love front-end and I am learning how to cr
   <li>📶 Html, Css</li> 
 </ul>
 
-```javascript
-if(1==2) developGoodApps()
-else pretend.EverythingIsOkay()
-```
+
   
     
