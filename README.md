@@ -6,7 +6,7 @@ I am a student who code as a hobby. I love front-end and I am learning how to cr
 - 🌱 I’m currently learning ... react js
 - 🤔 I’m looking for help with ... react and node integration.
 
-
+### Status 💪 
 
 [![Kauan's github stats](https://github-readme-stats.vercel.app/api?username=KauanRakoski)](https://github.com/anuraghazra/github-readme-stats)
 
