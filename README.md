@@ -1,14 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kauan</h1>
+<h3 align="center">A passionate front and backend developer from Brazil</h3>
 
-I am a student who code as a hobby. I love front-end and I am learning how to create back-end apps.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kauanrakoski" alt="kauanrakoski" /> </p>
 
-- 🔭 I’m currently working on ... simple backend structures.
-- 🌱 I’m currently learning ... react js
-- 🤔 I’m looking for help with ... react and node integration.
+- 🔭 I’m currently working on [Quick Notes](https://quick-notesjs.herokuapp.com/)
 
-### Status 💪 
+- 👯 I’m looking to collaborate on **Open-Source projects that help me learn**
 
-[![Kauan's github stats](https://github-readme-stats.vercel.app/api?username=KauanRakoski)](https://github.com/anuraghazra/github-readme-stats)
+- 🤝 I’m looking for help with **ReactJS an Node integration**
+
+### Tools and Status
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kauanrakoski&show_icons=true" alt="kauanrakoski" /></p>
 
 
   
