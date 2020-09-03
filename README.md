@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <img src="https://badges.pufler.dev/repos/KauanRakoski" /> &nbsp; &nbsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KauanRakoski" alt="kauanrakoski" />  &nbsp; &nbsp;
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kauanrakoski" alt="kauanrakoski" />  &nbsp; &nbsp;
   <img src="https://badges.pufler.dev/years/kauanrakoski" />
 </p>
 
