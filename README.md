@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kauan</h1>
 <h3 align="center">A passionate front and backend developer from Brazil</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KauanRakoski" alt="kauanrakoski" /> </p>
+<p align="center"> 
+  <img src="https://badges.pufler.dev/repos/KauanRakoski" /> &nbsp; &nbsp;
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KauanRakoski" alt="kauanrakoski" />  &nbsp; &nbsp;
+  <img src="https://badges.pufler.dev/years/kauanrakoski" />
+</p>
 
 - 🔭 I’m currently working on [Quick Notes](https://quick-notesjs.herokuapp.com/)
 
