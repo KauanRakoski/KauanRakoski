@@ -2,7 +2,7 @@
 <h3 align="center">A passionate front and backend developer from Brazil</h3>
 
 <p align="center"> 
-  <img src="https://badges.pufler.dev/repos/KauanRakoski" /> &nbsp; &nbsp;
+  <img src="https://badges.pufler.dev/repos/kauanrakoski" /> &nbsp; &nbsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=kauanrakoski" alt="kauanrakoski" />  &nbsp; &nbsp;
   <img src="https://badges.pufler.dev/years/kauanrakoski" />
 </p>
