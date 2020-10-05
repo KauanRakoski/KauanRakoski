@@ -26,6 +26,7 @@
 
 <details>
   <summary><b>Languages that I like to use</b></summary>
+  <br>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrakoski&layout=compact&hide=html" alt="kauanrakoski" /></p>
 </details>
 
