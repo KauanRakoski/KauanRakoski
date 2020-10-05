@@ -3,6 +3,7 @@
 
 <p align="center"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=kauanrakoski"/>  &nbsp; &nbsp;
+  <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.svg"> &nbsp; &nbsp;
   <img src="https://badges.pufler.dev/years/kauanrakoski" />
 </p>
 
