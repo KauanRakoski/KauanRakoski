@@ -7,7 +7,7 @@
   <img src="https://badges.pufler.dev/years/kauanrakoski" />
 </p>
 
-- 🔭 I’m currently working on [Quick Notes](https://quick-notesjs.herokuapp.com/)
+- 🔭 I’m currently working on [Sorter](https://sorter.vercel.app)
 
 - 👯 I’m looking to collaborate on **Open-Source projects that help me learn**
 
