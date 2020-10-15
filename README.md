@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source projects that help me learn**
 
-- 🤝 I’m looking for help with **State management**
+- 🤝 I’m looking for help with **Vue.js single page applications programming**
 
 ### Tools I use
 <p align="left">
