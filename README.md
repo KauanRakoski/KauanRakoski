@@ -7,7 +7,7 @@
   <img src="https://badges.pufler.dev/years/kauanrakoski" />
 </p>
 
-- 🔭 I’m currently working on [Sorter](https://sorter.vercel.app)
+- 🔭 I’m currently working on <a href="https://github.com/kauanrakoski/waste-sorter"><b>Sorter</b></a>
 
 - 👯 I’m looking to collaborate on **Open-Source projects that help me learn**
 
