@@ -3,8 +3,7 @@
 
 <p align="center"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=kauanrakoski"/>  &nbsp; &nbsp;
-  <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.svg"> &nbsp; &nbsp;
-  <img src="https://badges.pufler.dev/years/kauanrakoski" />
+  <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.svg">
 </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/kauanrakoski/waste-sorter"><b>Sorter</b></a>
