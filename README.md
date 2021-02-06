@@ -24,5 +24,11 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrakoski&layout=compact&hide=html" alt="kauanrakoski" /></p>
 </details>
 
+<details>
+  <summary><b>My stats</b></summary>
+  <br>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kauanrakoski" alt="kauanrakoski" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kauanrakoski" alt="kauanrakoski" /></p>
+</details>
   
     
