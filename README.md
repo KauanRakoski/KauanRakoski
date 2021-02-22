@@ -6,9 +6,9 @@
   <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.svg">
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/kauanrakoski/waste-sorter"><b>Sorter</b></a>
+- 🔭 I’m currently working on <a href="https://github.com/hipesoft/jsint"><b>jsint</b></a>
 
-- 👯 I’m looking to collaborate on **Open-Source projects that help me learn**
+- 👯 I’m looking to collaborate on **Open-Source saas projects that focus on vue**
 
 - 🤝 I’m looking for help with **Vue.js single page and functional programming**
 
