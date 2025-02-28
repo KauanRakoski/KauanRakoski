@@ -4,8 +4,8 @@
 
 **Atualmente cursando em [UFRGS](http://www.ufrgs.br)**
 
-- ⚙️ Ferramentas que uso: `.c`, `.js`, `.html`, `.css`, `.rkt`
-- 🎯 Focando em lógica de programação
+- ⚙️ Ferramentas que uso: `.c`, `.js`, `.html`, `.css`, `.vue`
+- 🎯 Focando em desenvolvimento full-stack
 
 <div style="display: flex; align-items: center;" align="center">
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
