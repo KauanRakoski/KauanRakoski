@@ -4,13 +4,13 @@
 
 **Atualmente cursando em [UFRGS](http://www.ufrgs.br)**
 
-- ⚙️ Ferramentas que uso: `.c`, `.js`, `.html`, `.css`, `.vue`
-- 🎯 Focando em desenvolvimento full-stack
+- ⚙️ Ferramentas que uso: `.js`, `.cpp`, `.py`
+- 🎯 Focando em desenvolvimento backend
 
 <div style="display: flex; align-items: center;" align="center">
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
 </div>
